@@ -193,7 +193,7 @@ label .label-text:before {
   background-size: 10px;
   background-position: center;
   border: 1px solid var(--checkbox-color);
-  background-image: url('./images/check.png');
+  background-image: url('check.png');
 }
 .tag {
   font-size: 10px;
